@@ -3,7 +3,7 @@
 <script src="ruffle.js"></script>
     <script>
         window.RufflePlayer = window.RufflePlayer || {};
-        window.RufflePlayer.config = { "letterbox": "fullscreen", "salign": "t",};
+        window.RufflePlayer.config = { "letterbox": "fullscreen", "scale": "showAll"};
         window.addEventListener("load", (event) => {
             const ruffle = window.RufflePlayer.newest();
             const player = ruffle.createPlayer();
