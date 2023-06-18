@@ -1,2 +1,9 @@
 # hobo
-Hobo Games
+Hobo Games:
+https://personperson25.github.io/hobo/Hobo 1
+https://personperson25.github.io/hobo/Hobo 2
+https://personperson25.github.io/hobo/Hobo 3
+https://personperson25.github.io/hobo/Hobo 4
+https://personperson25.github.io/hobo/Hobo 5
+https://personperson25.github.io/hobo/Hobo 6
+https://personperson25.github.io/hobo/Hobo 7
